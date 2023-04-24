@@ -5,3 +5,5 @@ Bayesian regression model created using per game stats such as shots, key passes
 
 FinalProject.py contains code associated with Bayesian regression model, and final data visualizations.
 FBRef_HeadshotScraping.py contains code used to scrape headshot .jpg photos for players on fbref.com.
+
+![mainViz](https://user-images.githubusercontent.com/71738445/233889238-99f1dc0a-1208-47e1-91af-4d48e85b2c7b.png)
